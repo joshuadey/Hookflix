@@ -1,16 +1,15 @@
-# my_app
+# Hookflix
 
-A new Flutter project.
+Hookflix is a sample android application to a user-friendly movie software for streaming and downloading movies.
 
-## Getting Started
+### INFO
 
-This project is a starting point for a Flutter application.
+It has a built in backend for uploading and managing the movies from the datatbase.
 
-A few resources to get you started if this is your first Flutter project:
+This software was developed with Flutter and it utilizes modern technologies and API's for it's performance 
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+#### Below is the link to view the apk file for the software
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+```
+[View Apk](https://drive.google.com)
+````
